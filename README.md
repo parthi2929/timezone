@@ -19,6 +19,7 @@ To do:
 
 Create a very simple time zone static site using ```reference``` folder for UX elements usage. 
 
+To do:  
 - [ ] default local time zone first time. show add option
 - [ ] **add** option - a pop up to choose time zone. display by default above local time zone. 
 - [ ] **auto save locally** in local browser space (so clearing cache would wipe out all settings)
