@@ -1,6 +1,6 @@
 # Overview
 
-The goal is to create a customizable timeline like [everytimezone](https://everytimezone.com/). There are 2 folders, built for parallel collaboration.
+The goal is to create a customizable timeline like [everytimezone](https://everytimezone.com/). There are 2 folders, built for parallel collaborations.
 
 ### Reference
 
