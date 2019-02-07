@@ -1,0 +1,25 @@
+body, html {
+    font-family: sans-serif;
+    max-width: 100%;
+  }
+
+
+  .vis-today {
+    background-color: #fff9c4;
+    border-width: 1px;
+    border-color: #616161 !important;    
+    /* border-color: blue; */
+  }
+
+
+  .vis-time-axis .vis-grid.vis-minor {
+    border-width: 1px;
+    border-color: #bdbdbd;
+  }
+
+  .vis-timeline {
+    border: 2px solid black;
+    /* font-family:  purisa, 'comic sans', cursive; */
+    font-size: 10pt;
+    /* background: #ffecea; */
+  }
