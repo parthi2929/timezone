@@ -24,7 +24,7 @@ To do:
 - [ ] **add** option - a pop up to choose time zone. display by default above local time zone. 
 - [ ] **auto save locally** in local browser space (so clearing cache would wipe out all settings)
 
-##### Step 2 - Server
+
 
 
 
